@@ -9,3 +9,5 @@ Possui as seguintes funções:
 -GERENCIAR PEDIDOS DE COMPRAS
 -DASHBOARD INFORMATIVO
 -LISTAGEM E RELATORIO DE PRODUTOS E PEDIDOS
+
+Link das telas: https://www.figma.com/file/LoR5AlxqLZ4TZDqZzPcXK3/Untitled?type=design&node-id=0%3A1&mode=design&t=L7nduyEM46L5McYr-1
